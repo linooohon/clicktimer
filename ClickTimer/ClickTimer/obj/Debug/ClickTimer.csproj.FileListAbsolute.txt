@@ -1,0 +1,10 @@
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.csprojAssemblyReference.cache
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.Form1.resources
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.Properties.Resources.resources
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.csproj.GenerateResource.cache
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.csproj.CoreCompileInputs.cache
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\bin\Debug\ClickTimer.exe.config
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\bin\Debug\ClickTimer.exe
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\bin\Debug\ClickTimer.pdb
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.exe
+C:\Users\linpinhung\source\repos\ClickTimer\ClickTimer\obj\Debug\ClickTimer.pdb
