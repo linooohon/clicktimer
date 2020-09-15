@@ -1,0 +1,10 @@
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\bin\Debug\借還錢模擬小程式.exe.config
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\bin\Debug\借還錢模擬小程式.exe
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\bin\Debug\借還錢模擬小程式.pdb
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.csprojAssemblyReference.cache
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.Form1.resources
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.Properties.Resources.resources
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.csproj.GenerateResource.cache
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.csproj.CoreCompileInputs.cache
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.exe
+C:\Users\linpinhung\source\repos\借還錢模擬小程式\借還錢模擬小程式\obj\Debug\借還錢模擬小程式.pdb
